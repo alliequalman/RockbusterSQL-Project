@@ -1,5 +1,5 @@
 #### SQL-PythonProject
-######**SQL Project Brief - Rockbuster Stealth Data Analysis:**
+###### **SQL Project Brief - Rockbuster Stealth Data Analysis:**
 
   Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
   
@@ -17,7 +17,7 @@
   
   
   
-  ######**Python Project Brief - InstaCart Basket Analysis:**
+  ###### **Python Project Brief - InstaCart Basket Analysis:**
   
    Instacart wants to uncover more information about their sales patterns. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. Your analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products. The stakeholders would like to be able to answer the following key questions:
    
