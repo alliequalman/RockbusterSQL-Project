@@ -1,4 +1,4 @@
-#### SQL-PythonProject
+#### RockbusterSQL-Project
 ###### SQL Project Brief - Rockbuster Stealth Data Analysis:
 
   Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
