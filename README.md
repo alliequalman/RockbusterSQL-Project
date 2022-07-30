@@ -1,1 +1,1 @@
-# InstacartPythonProject
+# SQL-PythonProject
